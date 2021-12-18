@@ -69,9 +69,9 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Bouncer](https://github.com/JosephSilber/bouncer) - Roles & Permissions
 * [Laratrust](https://github.com/santigarcor/laratrust) - Roles, Permissions and teams
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
-* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 * [Defender](https://github.com/artesaos/defender) - Roles & Permissions
+* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - OAuth 2.0 authorization server and resource server
 * [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
 * [Socialite Providers 2.0](http://socialiteproviders.github.io/) - 100+ social authentication providers for Socialite with Lumen support
