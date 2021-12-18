@@ -68,7 +68,7 @@ Introducing the best Laravel framework training Document in Persian and Other
 
 * [Laravel Permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
 
-* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
+* [Laravel Passport](https://laravel.com/docs/8.x/passport) - Web Token authentication for APIs
 
 * [Socialite](https://github.com/laravel/socialite) - OAuth authentication with Facebook, Google, Twitter etc.
 * [Socialite Providers 2.0](http://socialiteproviders.github.io/) - 100+ social authentication providers for Socialite with Lumen support
