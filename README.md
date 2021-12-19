@@ -175,16 +175,3 @@
 ## Code Snippets
 
 * [Laravel Tricks](http://laravel-tricks.com/)
-
-
-## Starter Projects
-
-* [Spark](https://spark.laravel.com/) - 
- 
-* [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) - LaraAdmin is a Open source CRM for quick-start Admin based applications with features like Advanced CRUD Generation, Schema Manager and Workflows.
-* [Laravel Admin](https://github.com/z-song/laravel-admin) - laravel-admin is administrative interface builder for laravel which can help you build CRUD backends just with few lines of code.
-* [Voyager](https://github.com/the-control-group/voyager) - Laravel Admin & BREAD System (Browse, Read, Edit, Add, & Delete)
-* [Orchid](https://github.com/TheOrchid/Platform)
-* [Hello API](https://github.com/Porto-SAP/Hello-API)
-* [Apiato](https://github.com/apiato/apiato)
-* [Laravel Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
