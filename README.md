@@ -179,28 +179,16 @@
 
 ## Starter Projects
 
-* [Spark](https://spark.laravel.com/)
-* [LaraAdmin](https://github.com/dwijitsolutions/laraadmin)
-* [Grafite Builder](https://github.com/GrafiteInc/Builder)
-* [Laravel Boilerplate](https://github.com/rappasoft/laravel-5-boilerplate)
-* [Laravel Angular Material Starter](https://github.com/jadjoubran/laravel5-angular-material-starter)
-* [AdminLTE Laravel](https://github.com/acacha/adminlte-laravel)
-* [Laravel Hackathon Starter](https://github.com/unicodeveloper/laravel-hackathon-starter)
-* [Laravel API Starter Kit](https://github.com/joselfonseca/laravel-api)
-* [Backpack for Laravel](https://github.com/Laravel-Backpack/Base)
-* [SomelineStarter](https://github.com/someline/someline-starter)
-* [Laravel Admin](https://github.com/z-song/laravel-admin)
-* [Voyager](https://github.com/the-control-group/voyager)
+* [Spark](https://spark.laravel.com/) - 
+* 
+* [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) - LaraAdmin is a Open source CRM for quick-start Admin based applications with features like Advanced CRUD Generation, Schema Manager and Workflows.
+* [Laravel Admin](https://github.com/z-song/laravel-admin) - laravel-admin is administrative interface builder for laravel which can help you build CRUD backends just with few lines of code.
+* [Voyager](https://github.com/the-control-group/voyager) - Laravel Admin & BREAD System (Browse, Read, Edit, Add, & Delete)
+
 * [Orchid](https://github.com/TheOrchid/Platform)
-* [Laravel REST API Boilerplate](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
-* [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen)
-* [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
 * [Apiato](https://github.com/apiato/apiato)
 * [Laravel Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
-* [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
-* [Laravel Enso](https://github.com/laravel-enso/enso)
-* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue)
 
 ## Codebases for Reference
 
