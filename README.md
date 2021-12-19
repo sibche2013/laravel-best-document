@@ -114,21 +114,12 @@
 
 ##### Databases, ORMs, Migrations & Seeding
 
-* [Backup Manager](https://github.com/backup-manager/laravel) - Backup and restore databases from S3, Dropbox, SFTP etc.
-* [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset) - Nested Sets pattern implementation
-* [ClosureTable](https://github.com/franzose/ClosureTable) - Closure table pattern implementation
-* [Eloquence](https://github.com/kirkbushell/eloquence) - Extra features for Eloquent models
-* [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
-* [Laravel OCI8](https://github.com/yajra/laravel-oci8) - Oracle DB driver via OCI8
 * [Laravel Backup](https://github.com/spatie/laravel-backup) - Backup your app
-* [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM implementation
-* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder with support for MongoDB
+* [Backup Manager](https://github.com/backup-manager/laravel) - Backup and restore databases from S3, Dropbox, SFTP etc.
+
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate migrations from an existing database
-* [Sofa/Eloquence](https://github.com/jarektkaczyk/eloquence) - Extensions for the Eloquent ORM
-* [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
-* [Laravel Repository](https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
+
 * [Lada Cache](https://github.com/spiritix/lada-cache) - A Redis based, fully automated and scalable database cache layer
-* [Laravel MySQL Spatial extension](https://github.com/grimzy/laravel-mysql-spatial) - easily work with MySQL Spatial Data Types and MySQL Spatial Functions
 
 ##### Search
 
