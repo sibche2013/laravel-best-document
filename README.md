@@ -108,12 +108,8 @@
 
 ##### Integration with Javascript
 
-* [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
-* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Pass server-side string/array/collection/whatever to JavaScript
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) - Use validation rules, messages, FormRequest and validators to validate forms in client-side
-* [Laravel Pjax](https://github.com/spatie/laravel-pjax) - A Pjax middleware
-* [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
-* [Ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
+
 * [LiveWire](https://github.com/livewire/livewire) - A magical front-end framework for Laravel
 
 ##### Databases, ORMs, Migrations & Seeding
