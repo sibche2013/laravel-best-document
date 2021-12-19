@@ -129,16 +129,14 @@ Introducing the best Laravel framework training Document in Persian and Other
 ##### Media & Document Management
 
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
-* [Laravel ImageUp](https://github.com/qcod/laravel-imageup) - Yet another image manipulation package, adds tons of extra functionality
-* [Laravel Glide](https://github.com/spatie/laravel-glide) - Easily convert images with Glide
-* [Laravel MediaLibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
-* [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
+
 * [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using [dompdf](https://github.com/dompdf/dompdf)
-* [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
+* [Laravel Snappy](https://github.com/KnpLabs/snappy) - HTML to PDF generator using wkhtmltopdf
+
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) - Fast XLSX, CSV and ODT import and export for Laravel
+
 * [Laravolt Avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
-* [Laravel FFmpeg](https://github.com/pascalbaljetmedia/laravel-ffmpeg) - This package provides an integration with FFmpeg for Laravel 5.8.
 
 ##### Integration with Javascript
 
