@@ -1,36 +1,7 @@
-# laravel-best-document
-Introducing the best Laravel framework training Document in Persian and Other
-
-## Table of Contents
-
-- [Essentials](#essentials)
-- [Packages](#packages)
-- [Popular Packages](#popular-packages)
-- [Development Setup](#development-setup)
-- [Application Hosting](#application-hosting)
-- [Application Deployment](#application-deployment)
-- [Code Snippets](#code-snippets)
-- [Tutorials & Blogs](#tutorials--blogs)
-- [Videos](#videos)
-- [Conferences](#conferences)
-- [Books](#books)
-- [Starter Projects](#starter-projects)
-- [Codebases for Reference](#codebases-for-reference)
-- [Content Management Systems](#content-management-systems)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Jobs](#jobs)
-- [Hosted Development Tools](#hosted-development-tools)
-- [Miscellaneous](#miscellaneous)
-
 ## Essentials
 
 * [Laravel](https://laravel.com) ([Documentation](https://laravel.com/docs))
 * [Laravel API Reference](https://laravel.com/api/master/)
-* [Lumen](https://lumen.laravel.com) ([Documentation](https://lumen.laravel.com/docs))
-* [Laracasts](https://laracasts.com)
-* [Laravel News](https://laravel-news.com) ([Archive](https://laravel-news.com/archive/))
-* [jobteam](https://jobteam.ir/category/Laravel) ([Archive](https://jobteam.ir/category/Laravel))
 
 ## Packages
 
@@ -39,9 +10,6 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Packalyst](http://packalyst.com/)
 * [Spatie](https://spatie.be/en/opensource/laravel)
 
-## Popular Packages
-
-> This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
 
 ##### Developer Tools
 
@@ -235,30 +203,7 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
 
-## Development Setup
 
-* [Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant box for Laravel
-* [Valet](https://laravel.com/docs/master/valet) - Development environment for Mac users
-* [Valet Linux](https://github.com/cpriego/valet-linux) - Development environment for Linux users
-* [LaraDock](https://github.com/LaraDock/laradock) - Run Laravel on Docker (Like Homestead but for Docker instead of Vagrant)
-* [LaraEdit Docker](https://github.com/laraedit/laraedit-docker) - Homestead environment in a single Docker container
-* [Laragon](https://laragon.org/) -  Isolated development environment on Windows
-* [Stacker](https://github.com/Maxlab/stacker) - The environment for local web development on Docker
-* [Devilbox](https://github.com/cytopia/devilbox) - A dockerized and general-purpose LAMP/MEAN stack for every PHP version
-* [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel
-* [Lando](https://docs.lando.dev/config/laravel.html) - A local development environment tool built on Docker
-
-## Application Hosting
-
-* [Vapor](https://vapor.laravel.com)
-* [Forge](https://forge.laravel.com/) ([ForgeRecipes](https://forgerecipes.com/))
-* [FortRabbit](https://www.fortrabbit.com/laravel-hosting)
-* [Heroku](https://www.heroku.com/) ([Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
-* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
-* [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
-* [Ploi](https://ploi.io/)
-* [CodePier](https://codepier.io?ref=awesome-laravel)
-* [RunCloud](https://runcloud.io/)
 
 ## Application Deployment
 
@@ -271,118 +216,6 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Laravel LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) ([Chinese version](https://cs.phphub.org/))
 * [Laravel Tricks](http://laravel-tricks.com/)
 
-## Tutorials & Blogs
-
-* [Taylor Otwell](http://taylorotwell.com/)
-* [Tuts+](https://code.tutsplus.com/categories/laravel)
-* [Medium](https://medium.com/tag/laravel/latest)
-* [Laravel Daily](https://laraveldaily.com/)
-* [Scotch](https://scotch.io/tag/laravel)
-* [Digital Ocean](https://www.digitalocean.com/community/search?q=laravel&primary_filter=newest&type=tutorials)
-* [Matt Stauffer](https://mattstauffer.co/blog)
-* [Vegi Bit](https://vegibit.com/tag/laravel/)
-* [Neon Tsunami](https://www.neontsunami.com/tags/laravel)
-* [Dor.ky](https://dor.ky/tag/laravel/)
-* [Stillat](https://stillat.com/explore/categories/laravel-5)
-* [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
-* [Laraveles](http://laraveles.com/blog/) (ES)
-* [Styde](https://styde.net/category/laravel-5/) (ES)
-* [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
-* [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
-* [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
-* [LaraShout](https://larashout.com/)
-
-## Videos
-
-* [Jobteam Laravel](https://jobteam.ir/Course/178-Laravel-course-building-online-store)
-* [Laracasts](https://laracasts.com/)
-* [Codecourse](https://www.codecourse.com/) ([YouTube](https://www.youtube.com/user/phpacademy/playlists))
-* [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
-* [Servers for Hackers](https://serversforhackers.com/laravel-perf)
-* [Test-Driven Laravel](https://course.testdrivenlaravel.com/)
-* [Duilio Palacios](https://www.youtube.com/user/silencedsg/videos) (ES)
-* [CodigoFacilito](https://codigofacilito.com/courses/laravel) (ES)
-* [DevDojo](https://devdojo.com/search?value=laravel)
-* [Amitav Roy](https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos)
-* [Laracademy](https://laracademy.co/)
-* [Dev Marketer](https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/playlists)
-* [Udemy](https://www.udemy.com/courses/search/?q=laravel)
-* [Lynda](https://www.lynda.com/search?q=laravel)
-* [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
-* [Bitfumes](https://www.youtube.com/bitfumes)
-* [ConfidentLaravel](https://confidentlaravel.com/)
-
-## Conferences
-
-* [Laracon US](http://laracon.us/)
-* [Laracon EU](http://laracon.eu/)
-* [Laracon Online](https://laracon.net/)
-* [Laraconf Brasil](http://laraconfbrasil.com.br/)
-* [Laracon Australia](https://laracon.com.au/)
-* [Laravel Live UK](https://laravellive.uk/)
-* [Laravel Live India](https://laravellive.in/)
-* [Laravel Nigeria](https://laravelnigeria.com)
-
-##### Videos
-
-* [Laracon IR 2021](https://jobteam.ir/Course/178-Laravel-course-building-online-store)
-* [Laracon EU 2018](https://www.youtube.com/playlist?list=PLMdXHJK-lGoC64wnqvm6v1R5dsuAV-MpS)
-* [Laracon US 2018](https://www.youtube.com/playlist?list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc)
-* [Laracon EU 2017](https://www.youtube.com/playlist?list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2)
-* [Laracon US 2017](https://www.youtube.com/playlist?list=PL-yJve--iT5oaLQA6OI8TWLVSOBP1qhs3)
-* [Laracon EU 2016](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN)
-* [Laracon US 2016](https://www.youtube.com/playlist?list=PL-yJve--iT5o9fH_cRY0u6P751pcF59GK)
-* [Laracon EU 2015](https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ)
-* Laracon US 2015
-* [Laracon EU 2014](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCYhxlU3OJ5bOGhcKtDMkcN)
-* [Laracon US 2014](https://www.youtube.com/channel/UCRawXmZv30Vf_MivyPYb_GQ/videos)
-* [Laracon EU 2013](https://www.youtube.com/playlist?list=PLMdXHJK-lGoB-CIVsiQt0WU8WcYrb5eoe)
-* [Laracon US 2013](https://www.youtube.com/playlist?list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN)
-
-## Books
-
-* [Laravel: step by step](https://jobteam.ir/category/Laravel) by Behzad mirzazadeh
-* [Laravel Starter](https://www.amazon.com/Laravel-Starter-Shawn-McCool-ebook/dp/B00ABFQ0AS) by Shawn McCool
-* [Laravel: Code Happy](https://leanpub.com/codehappy) by Dayle Rees
-* [Laravel: Code Bright](https://leanpub.com/codebright) by Dayle Rees
-* [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
-* [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) by Taylor Otwell
-* [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell
-* [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
-* [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/) by Adam Wathan
-* [Implementing Laravel](https://leanpub.com/implementinglaravel) by Chris Fidao
-* [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) by Chuck Heintzelman
-* [Laravel Application Development Blueprints](https://www.packtpub.com/web-development/laravel-application-development-blueprints) by Arda Kılıçdağı and Halil İbrahim Yılmaz
-* [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) by Phil Sturgeon
-* [Integrating Front end Components with Web Applications](https://leanpub.com/frontend) by Maksim Surguy
-* [Laravel Design Patterns and Best Practices](https://www.packtpub.com/web-development/laravel-design-patterns-and-best-practices) by Arda Kılıçdağı and Halil İbrahim Yılmaz
-* [Learning Laravel 4 Application Development](https://www.packtpub.com/web-development/learning-laravel-4-application-development) by Hardik Dangar
-* [Getting Started with Laravel 4](https://www.packtpub.com/web-development/getting-started-laravel-4) by Raphaël Saunier
-* [Laravel Application Development Cookbook](https://www.packtpub.com/web-development/laravel-application-development-cookbook) by Terry Matula
-* [Building Web Applications Using Parse REST API](https://leanpub.com/building-web-applications-using-parse-rest-api) by Mhd Zaher Ghaibeh
-* [Laravel - My First Framework](https://leanpub.com/laravel-first-framework) by Maksim Surguy
-* [Easy Laravel 5](https://leanpub.com/easylaravel/) by W. Jason Gilmore
-* [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials) by Martin Bean
-* [Easy E-Commerce Using Laravel and Stripe](https://leanpub.com/easyecommerce) by W. Jason Gilmore and Eric L. Barnes
-* [Laravel 5.1 Beauty](https://leanpub.com/l5-beauty) by Chuck Heintzelman
-* [Design Patterns with PHP and Laravel](https://leanpub.com/larasign) by Kelt Dockins
-* [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel) by Christopher John Pecoraro
-* [How to Build Real-Time Laravel Apps with Pusher](http://pusher-community.github.io/real-time-laravel/) by Pusher
-* [Learning Laravel's Eloquent](https://www.amazon.com/Learning-Laravels-Eloquent-Francesco-Malatesta-ebook/dp/B00YSILQ6C) by Francesco Malatesta
-* [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) by Sanjib Sinha
-* [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) by Daniel Schmitz and Daniel Pedrinha Georgii
-* [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) by Jeff Madsen
-* [Writing APIs With Lumen](https://leanpub.com/lumen-apis) by Paul Redmond
-* [The Laravel Survival Guide](https://leanpub.com/laravelsurvivalguide) by Tony Lea
-* [Laraboot: Laravel 5 For Beginners](https://leanpub.com/laravel-5-for-beginners-laraboot) by Bill Keck
-* [Laravel 5.4 For Beginners](https://leanpub.com/laravel-5-4-for-beginners) by Bill Keck
-* [Laravel Up & Running](https://www.amazon.com/gp/product/1491936088) by Matt Stauffer
-* [Laravel Companion](https://leanpub.com/laravelcompanion-secondedition) by Johnathon Koster
-* [Deploy Laravel on AWS with CloudFormation](https://leanpub.com/laravel-aws) by Lionel Martin
-* [React Native and Laravel for Future Mobile Development](https://leanpub.com/rn_laravel) by Ega Radiegtya
-* [Servers for Hackers](https://book.serversforhackers.com) by Chris Fidao
-* [Full-Stack Vue.js 2 and Laravel 5](https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together/dp/1788299582) by Anthony Gore
-* [Build an API with Laravel](https://buildanapi.com) by Wacky Studio
 
 ## Starter Projects
 
@@ -446,45 +279,3 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum)
 * [Twill](https://github.com/area17/twill)
-
-
-## Community
-
-* [Laracasts Forum](https://laracasts.com/discuss)
-* [Laravel.io Forum](http://laravel.io/forum)
-* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/register))
-* [Gitter](https://gitter.im/laravel/laravel)
-* [IRC Channel](http://laravel.io/chat)
-* [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
-* [Twitter](https://twitter.com/laravelphp)
-* [Google+](https://plus.google.com/communities/106838454910116161868)
-* [Reddit](https://www.reddit.com/r/laravel)
-* [Quora](https://www.quora.com/topic/Laravel)
-* [Facebook](https://www.facebook.com/LaravelCommunity)
-* [LinkedIn](https://www.linkedin.com/groups/4419933/profile)
-
-##### Local User Groups
-* [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
-* [Laravel Iran](https://jobteam.ir/category/Laravel) ([linkedin](https://www.linkedin.com/company/jobteamir/),[instagram](https://www.instagram.com/jobteam.ir/), [Twitter](https://twitter.com/jobteam1))
-
-##### Meetups
-
-* [All Meetups](http://www.meetup.com/topics/laravel/)
-* [London Meetup](https://www.meetup.com/London-Laravel/)
-* [Buenos Aires Meetup](https://www.meetup.com/Laravel-Buenos-Aires/)
-* [Athens-Greece Meetup](https://www.meetup.com/athens-laravel-meetup/)
-* [Copenhagen Meetup](https://www.meetup.com/Copenhagen-Laravel-Meetup/)
-* [Detroit Meetup](https://www.meetup.com/Laravel-Detroit/)
-* [Paris Meetup](https://www.meetup.com/fr-FR/Paris-Laravel-Meetup/)
-* [Melbourne Meetup](https://www.meetup.com/Melbourne-laravel-Meetup/)
-* [Budapest Meetup](https://www.meetup.com/Laravel-Hungary-Meetup/)
-
-## Jobs
-
-* [LaraJobs](https://jobteam.ir/ProductUser/100-Laravel-Programmer)
-
-
-## Miscellaneous
-* [LaravelChanel](https://t.me/jobteamir) - A Telegram Channel dedicated to sharing great Laravel Resources
-
-## Contributing
