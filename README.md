@@ -136,8 +136,9 @@
 ##### Tasks, Commands and Scheduling
 
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
-* [Elixir](https://github.com/laravel/elixir) - Node (NPM) package to run Gulp tasks
+
 * [Mix](https://github.com/JeffreyWay/laravel-mix) - Fluent API for defining basic webpack build steps
+
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 
 ##### Payments
