@@ -108,34 +108,23 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users
 
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
+
 * [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
-* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
+
 * [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - Approve or reject resources like posts, comments, users, etc.
 * [Laravel Tags](https://github.com/spatie/laravel-tags) - Add tags and taggable behaviour
-* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
-* [Listify](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model
+
+* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store (Log)
+
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
-* [Purifier](https://github.com/mewebstudio/purifier) - HTML filter
-* [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
+
 * [SEOTools](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
-* [Page Cache](https://github.com/JosephSilber/page-cache) - Caches responses as static files on disk for lightning fast page loads
-* [Laravel Setting](https://github.com/anlutro/laravel-settings) - Persistent configuration settings that are stored in JSON files
-* [Friendship](https://github.com/hootlex/laravel-friendships) - Friendship management system
-* [Teamwork](https://github.com/mpociot/teamwork) - User to team associations with an invite system
+
 * [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models
-* [VAT Calculator](https://github.com/mpociot/vat-calculator) - Handle all the hard stuff related to EU MOSS vat regulations
-* [Laravel UUID](https://github.com/webpatser/laravel-uuid) - Generate a UUID according to the RFC 4122 standard
-* [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - Allow users to install your application just by following the setup wizard, like WordPress
-* [Laravel Modules](https://github.com/nWidart/laravel-modules) - Easy module management
+
 * [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) - Phone number validator and formatter
-* [Laravel Ban](https://github.com/cybercog/laravel-ban) - Simplify blocking and banning Eloquent models
-* [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - Handling sessions when behind load balancers or other intermediaries.
+
 * [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC
-* [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - A powerful alternative to view composers.
-* [Secure Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response
-* [Laravel Nova](https://nova.laravel.com/) - Nova is a beautifully designed administration panel for Laravel
-* [Laravel Love](https://github.com/cybercog/laravel-love) - It lets people express how they feel about the content. React on Eloquent models with Likes or Dislikes.
-* [stancl/tenancy](https://github.com/stancl/tenancy) - Automatic tenancy for your Laravel app. No code changes needed.
 
 ##### Media & Document Management
 
