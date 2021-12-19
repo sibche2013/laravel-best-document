@@ -180,50 +180,11 @@
 ## Starter Projects
 
 * [Spark](https://spark.laravel.com/) - 
-* 
+ 
 * [LaraAdmin](https://github.com/dwijitsolutions/laraadmin) - LaraAdmin is a Open source CRM for quick-start Admin based applications with features like Advanced CRUD Generation, Schema Manager and Workflows.
 * [Laravel Admin](https://github.com/z-song/laravel-admin) - laravel-admin is administrative interface builder for laravel which can help you build CRUD backends just with few lines of code.
 * [Voyager](https://github.com/the-control-group/voyager) - Laravel Admin & BREAD System (Browse, Read, Edit, Add, & Delete)
-
 * [Orchid](https://github.com/TheOrchid/Platform)
 * [Hello API](https://github.com/Porto-SAP/Hello-API)
 * [Apiato](https://github.com/apiato/apiato)
 * [Laravel Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
-
-## Codebases for Reference
-
-* [Cachet](https://github.com/cachethq/Cachet) - Status page system for websites and APIs
-* [Deployer](https://github.com/REBELinBLUE/deployer) - Application deployment system
-* [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management with Git and Scrum
-* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
-* [Koel](https://github.com/phanan/koel) - Personal music streaming server
-* [Laravel.io](https://github.com/laravelio/portal) - Source for the Laravel.io Community Portal
-* [Attendize](https://github.com/Attendize/Attendize) - Ticket selling and event management platform
-* [Antvel](https://github.com/ant-vel/App) - Ecommerce platform
-* [Jigsaw](https://github.com/tightenco/jigsaw) - Static site generator
-* [Canvas](https://github.com/cnvs/canvas) - A Laravel Publishing Platform
-* [Vuedo](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
-* [Screeenly](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
-* [Voten](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
-* [Monica](https://github.com/monicahq/monica) - Personal relationship management system
-* [Snipe-IT](https://github.com/snipe/snipe-it) - IT asset/license management system
-* [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
-* [Torch](https://github.com/mattstauffer/Torch) - Examples of using each Illuminate component in non-Laravel applications
-* [Pixelfed](https://github.com/pixelfed/pixelfed) - A free and ethical photo sharing platform, powered by ActivityPub federation
-
-
-## Content Management Systems
-
-* [OctoberCMS](https://github.com/octobercms/october)
-* [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)
-* [PyroCMS](https://github.com/pyrocms/pyrocms)
-* [Lavalite](https://github.com/LavaLite/cms)
-* [TypiCMS](https://github.com/typicms/base)
-* [Asgard CMS](https://github.com/AsgardCms/Platform)
-* [Microweber](https://github.com/microweber/microweber)
-* [Coaster CMS](https://github.com/web-feet/coastercms)
-* [Statamic](https://statamic.com/)
-* [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
-* [PJ Blog](https://github.com/jcc/blog/)
-* [Laralum](https://github.com/Laralum/Laralum)
-* [Twill](https://github.com/area17/twill)
