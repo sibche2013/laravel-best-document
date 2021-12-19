@@ -74,15 +74,11 @@ Introducing the best Laravel framework training Document in Persian and Other
 * [Socialite Providers 2.0](http://socialiteproviders.github.io/) - 100+ social authentication providers for Socialite with Lumen support
 
 * [Google2FA](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
+ 
 * [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email
-* [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management
-* [Doorman](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes
 
 ##### Utilities
 
-* [Awes.io](https://github.com/awes-io/awes-io) - boilerplate for CRM, SaaS, ERP based on Vue (Nuxt.js), TailwindCSS plus Laravel as a backend.
-* [Artisan View](https://github.com/svenluijten/artisan-view) - Manage the views in Laravel projects via artisan
-* [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
 * [Captcha](https://github.com/mewebstudio/captcha) - An anti-bot image captcha system
 * [Charts](https://github.com/ConsoleTVs/Charts) - Multi-library chart package to create interactive charts
 * [Lavacharts](https://github.com/kevinkhill/lavacharts) - Charts and Graphs for PHP Powered by the Google Chart API
