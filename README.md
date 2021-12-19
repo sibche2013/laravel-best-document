@@ -79,30 +79,34 @@ Introducing the best Laravel framework training Document in Persian and Other
 
 ##### Utilities
 
-* [Captcha](https://github.com/mewebstudio/captcha) - An anti-bot image captcha system
 * [Charts](https://github.com/ConsoleTVs/Charts) - Multi-library chart package to create interactive charts
 * [Lavacharts](https://github.com/kevinkhill/lavacharts) - Charts and Graphs for PHP Powered by the Google Chart API
+
 * [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships
+
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
+
 * [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
+
 * [HTML](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
-* [Multi-tenant](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of routes, assets and databases
-* [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Form builder inspired by Symfony's form builder
+
 * [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
-* [Laravel Auditing](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models
-* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
+
+* [Laravel Breadcrumbs](https://github.com/diglactic/laravel-breadcrumbs) - Create and manage breadcrumbs
+
 * [Laravel Collection Macros](https://github.com/spatie/laravel-collection-macros) - A set of handy collection macros
-* [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
+
 * [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API
-* [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - Determine the location of website visitors based on their IP addresses
+
 * [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - Generate unique, non-sequential ids using [Hashids](http://hashids.org/php/)
-* [Laravel permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
-* [Laravel file manager](https://github.com/alexusmai/laravel-file-manager) - File manager for Laravel
+
 * [Laravel file manager](https://github.com/UniSharp/laravel-filemanager) - Media gallery with CKEditor, TinyMCE and Summernote support. Built on Laravel file system
+* [Laravel file manager](https://github.com/alexusmai/laravel-file-manager) - File manager for Laravel
+
 * [Short URL](https://github.com/ash-jc-allen/short-url) - A Laravel package for creating shortened URLs for your web apps
+
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - A package to authenticate as one of your users
-* [Laravel Mailbox](https://github.com/beyondcode/laravel-mailbox) - A package to handle incoming emails
-* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark markdown parser
+
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Html menu generator for Laravel
 * [Laravel Talk](https://github.com/nahid/talk) - Realtime User messaging system
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - User messaging system
