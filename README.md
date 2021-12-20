@@ -96,7 +96,7 @@
 * 
 * [laravel json api paginate](https://github.com/spatie/laravel-json-api-paginate) - A paginator that plays nice with the JSON API spec
 * [browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
-
+* [l5-repository] (https://github.com/andersao/l5-repository) - Repositories to abstract the database layer
 ##### Media & Document Management
 
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
