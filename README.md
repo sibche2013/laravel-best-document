@@ -95,7 +95,7 @@
 * [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - Video Chat using Socket.IO and WebRTC
 * 
 * [laravel json api paginate](https://github.com/spatie/laravel-json-api-paginate) - A paginator that plays nice with the JSON API spec
-* [browsershot]https://github.com/spatie/browsershot - Convert HTML to an image, PDF or string
+* [browsershot](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string
 
 ##### Media & Document Management
 
